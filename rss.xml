@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[testzin]]></title>
+        <description><![CDATA[testzin]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 13:12:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dit is een kopregel die nergens over gaat.]]></title>
+            <description><![CDATA[<article><h1>Dit is een kopregel die nergens over gaat.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a277cb-a6d3-453a-909e-84256d0e6863.JPG"></article>]]></description>
+            <link>undefineddit-is-een-kopregel-die-nergens-over-gaat/index.html</link>
+            <guid isPermaLink="false">ee65c623-3c52-4ef6-817b-10a9b56a02a9</guid>
+            <pubDate>Sat, 27 Feb 2016 13:12:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
